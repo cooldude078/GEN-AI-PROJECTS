@@ -1,6 +1,6 @@
-##👋 Hi, I'm Deepak
+👋 Hi, I'm Deepak
 
-I am a university student and aspiring AI/ML engineer passionate about building intelligent systems and practical applications using machine learning, artificial intelligence, and modern web technologies.
+I am a university student and aspiring AI/ML engineer passionate about building intelligent systems and practical applications using machine learning, artificial intelligence.
 
 I enjoy solving real-world problems through data-driven solutions, AI-powered tools, and full-stack applications.
 
@@ -17,36 +17,31 @@ Full Stack Development
 
 I am also learning how to build AI-powered applications using modern frameworks.
 
-##🛠 Tech Stack
+🛠 Tech Stack
 
 Programming
-
 Python
 SQL
 
-
 AI / ML
-
 Scikit-learn
 Pandas
 NumPy
 
 GenAI & AI Tools
-
 LangChain
 Groq LLM
 Streamlit
 
 Databases
-
 MySQL
 SQLite
 
 Other Tools
-
 Git
 GitHub
 VS Code
+
 📌 What I Am Building
 
 This GitHub repository will contain projects focused on:
@@ -55,6 +50,7 @@ This GitHub repository will contain projects focused on:
 ML models for real-world datasets
 Model evaluation & optimization
 AI-based automation tools
+
 🧠 Generative AI Applications
 LLM powered applications
 AI agents
@@ -72,6 +68,5 @@ I believe in learning by building, so most of my work here focuses on practical 
 ✔ AI Projects
 ✔ Machine Learning Implementations
 ✔ Generative AI Applications
-
 
 ⭐ If you find any of my projects interesting, feel free to explore and contribute!
